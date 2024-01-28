@@ -1,0 +1,20 @@
+# Ignore all
+*
+
+# Unignore files with extension and dirs
+!*.*
+!*/
+
+# Ignore .out files and build, bin, .vscode or .dSYM dirs
+bin/
+build/
+.vscode/
+*.dSYM/
+
+# Archives
+*.zip
+*.tar.*
+
+# Misc
+*.out
+*.o%
