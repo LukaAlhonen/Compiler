@@ -10,7 +10,7 @@ bin/
 build/
 .vscode/
 *.dSYM/
-
+*.xcodeproj/
 # Archives
 *.zip
 *.tar.*
